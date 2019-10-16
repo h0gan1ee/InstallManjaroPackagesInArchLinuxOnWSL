@@ -1,4 +1,3 @@
-#!/bin/bash
 pacman -S --needed --noconfirm a52dec
 pacman -S --needed --noconfirm aalib
 pacman -S --needed --noconfirm accountsservice
